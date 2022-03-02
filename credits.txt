@@ -1,5 +1,16 @@
-Programmer and Designer
-asdf
+(c) 2022 - Deep Void Mining Operations / Jeff Lunt
 
-Play Testers
-fdsa
+
+GAME DESIGN AND PROGRAMMING
+Jeff Lunt / normalocity games
+
+
+SPECIAL THANKS TO
+
+the MUD coders guild (mudcoders.com)
+the r/godot subreddit
+the r/playmygame subreddit
+
+
+FOLLOW normalocity games ON TWITTER
+twitter.com/normalocity
