@@ -1,5 +1,9 @@
 Deep Void Mining Operations (c) 2022 - Jeff Lunt
 
+PLAYTESTERS
+seanohue
+qreilly00
+
 SPECIAL THANKS TO
 
 the MUD coders guild (mudcoders.com)
@@ -8,9 +12,3 @@ the r/playmygame subreddit
 
 FOLLOW normalocity games ON TWITTER
 twitter.com/normalocity
-
------
-
-PLAYTESTERS
-seanohue
-qreilly00
