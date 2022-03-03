@@ -2,6 +2,7 @@ Deep Void Mining Operations (c) 2022 - Jeff Lunt
 
 PLAYTESTERS
 seanohue
+hzzzln
 qreilly00
 TallFroGuy
 Philbywhizz
